@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <rect width="900" height="420" fill="#0d1117"/>
+  
+  <text x="450" y="36" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#e6edf3">Shield Guide AI — Threat Levels</text>
+  <text x="450" y="58" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Playbooks only · Refuses attack advice · Defensive visibility only</text>
+
+  <!-- Everyday -->
+  <rect x="40" y="90" width="190" height="220" rx="12" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+  <circle cx="135" cy="130" r="22" fill="#3fb950" opacity="0.25"/>
+  <text x="135" y="136" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#3fb950">Everyday</text>
+  <text x="135" y="175" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Baseline hygiene</text>
+  <text x="135" y="195" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Updates · backups</text>
+  <text x="135" y="213" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Sharing awareness</text>
+  <text x="135" y="231" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Simple scan cadence</text>
+  <text x="135" y="270" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#3fb950">Default for most users</text>
+
+  <!-- Elevated -->
+  <rect x="250" y="90" width="190" height="220" rx="12" fill="#161b22" stroke="#d29922" stroke-width="2"/>
+  <circle cx="345" cy="130" r="22" fill="#d29922" opacity="0.25"/>
+  <text x="345" y="136" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#3fb950">Elevated</text>
+  <text x="345" y="175" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Heightened caution</text>
+  <text x="345" y="195" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Travel · shared devices</text>
+  <text x="345" y="213" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Unknown networks</text>
+  <text x="345" y="231" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Extra listener checks</text>
+  <text x="345" y="270" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#d29922">Temporary or situational</text>
+
+  <!-- Stalking -->
+  <rect x="460" y="90" width="190" height="220" rx="12" fill="#161b22" stroke="#f85149" stroke-width="2"/>
+  <circle cx="555" cy="130" r="22" fill="#f85149" opacity="0.25"/>
+  <text x="555" y="136" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#f85149">Stalking</text>
+  <text x="555" y="175" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Safety-first mode</text>
+  <text x="555" y="195" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Evidence preservation</text>
+  <text x="555" y="213" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Panic lock guidance</text>
+  <text x="555" y="231" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Hotline / police paths</text>
+  <text x="555" y="270" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#f85149">Visible, non-covert help</text>
+
+  <!-- Child -->
+  <rect x="670" y="90" width="190" height="220" rx="12" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+  <circle cx="765" cy="130" r="22" fill="#58a6ff" opacity="0.25"/>
+  <text x="765" y="136" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">Child</text>
+  <text x="765" y="175" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Age-appropriate</text>
+  <text x="765" y="195" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Family Link visible</text>
+  <text x="765" y="213" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Child can unlink</text>
+  <text x="765" y="231" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Location only if shared</text>
+  <text x="765" y="270" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#58a6ff">Guardian banner always on</text>
+
+  <text x="450" y="360" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Set via PATCH /v1/me/threat-level · everyday | elevated | stalking | child</text>
+  <text x="450" y="385" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#6e7681">© Futuret3ch Security · MemeTorrent ecosystem · No watermarks</text>
+</svg>

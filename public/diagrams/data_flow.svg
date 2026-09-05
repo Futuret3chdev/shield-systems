@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480">
+  <rect width="960" height="480" fill="#0d1117"/>
+  
+  <text x="480" y="36" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#e6edf3">Shield Systems — Visibility Data Flow</text>
+  <text x="480" y="58" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Defensive visibility only · Consent-gated · Real results only</text>
+
+  <!-- Devices box -->
+  <rect x="40" y="100" width="200" height="160" rx="12" fill="#161b22" stroke="#00c9a7" stroke-width="2"/>
+  <text x="140" y="130" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#00c9a7">Licensed Devices</text>
+  <text x="140" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Windows · macOS</text>
+  <text x="140" y="173" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Linux · Mobile</text>
+  <text x="140" y="191" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Browsers · Games</text>
+  <text x="140" y="220" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Heartbeat + Scan</text>
+  <text x="140" y="238" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">User-approved diagnostics</text>
+
+  <!-- Arrow 1 -->
+  <path d="M250 180 L320 180" stroke="#58a6ff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Agents / Collectors -->
+  <rect x="330" y="100" width="200" height="160" rx="12" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+  <text x="430" y="130" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">Local Agents</text>
+  <text x="430" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Endpoint · Edge · Data</text>
+  <text x="430" y="173" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Integrity checks</text>
+  <text x="430" y="191" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Entropy · Persistence</text>
+  <text x="430" y="220" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">No decryption</text>
+  <text x="430" y="238" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Sandbox-respecting</text>
+
+  <!-- Arrow 2 -->
+  <path d="M540 180 L610 180" stroke="#d2a8ff" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Cloud / API -->
+  <rect x="620" y="100" width="200" height="160" rx="12" fill="#161b22" stroke="#d2a8ff" stroke-width="2"/>
+  <text x="720" y="130" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#d2a8ff">Shield API &amp; Dashboard</text>
+  <text x="720" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Scan history</text>
+  <text x="720" y="173" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Live grid · Map</text>
+  <text x="720" y="191" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#c9d1d9">Guide AI · Family</text>
+  <text x="720" y="220" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Bearer / Head Office</text>
+  <text x="720" y="238" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Real results only</text>
+
+  <!-- Bottom principles -->
+  <rect x="40" y="300" width="880" height="120" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="480" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#e6edf3">Core Principles</text>
+  <text x="480" y="355" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">1. Visibility ≠ bypass · 2. Explicit consent for diagnostics &amp; support · 3. Family Link always visible &amp; revocable</text>
+  <text x="480" y="375" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">4. Guide AI refuses attack advice · 5. Real results only · 6. Aligns with Australian Privacy Principles</text>
+  <text x="480" y="400" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">memetorrent.futuret3ch.com.au/shield · /shield/api · /developers</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#58a6ff"/>
+    </marker>
+  </defs>
+
+  <text x="480" y="455" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#6e7681">© Futuret3ch Security · MemeTorrent ecosystem · No watermarks</text>
+</svg>
