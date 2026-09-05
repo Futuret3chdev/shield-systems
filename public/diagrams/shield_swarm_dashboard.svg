@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Meme Torrent Shield Swarm Dashboard — Futuret3ch UEIS">
+  <!-- Background -->
+  <rect width="1280" height="720" fill="#0a0e14"/>
+  
+  <!-- Subtle grid -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161b22" stroke-width="0.5"/>
+    </pattern>
+    <linearGradient id="sphereGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00c9a7"/>
+      <stop offset="40%" stop-color="#58a6ff"/>
+      <stop offset="70%" stop-color="#d2a8ff"/>
+      <stop offset="100%" stop-color="#00c9a7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00c9a7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0a0e14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+
+  <!-- Top bar -->
+  <rect x="0" y="0" width="1280" height="42" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="24" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700" fill="#e6edf3">0xMT // MEME TORRENT SHIELD</text>
+  <text x="340" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#8b949e">FUTURET3CH UEIS · DEFENSIVE VISIBILITY ONLY</text>
+  <text x="980" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#3fb950">BOTH 94.7% · LIVE</text>
+  <text x="1180" y="27" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">UTC</text>
+
+  <!-- Left column: Visibility metrics -->
+  <rect x="16" y="56" width="280" height="180" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="32" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">ALL-TIME VISIBILITY</text>
+  <text x="32" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="32" font-weight="700" fill="#3fb950">+94,287</text>
+  <text x="32" y="145" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">Net Nodes 1,248 · Entropy 0.873</text>
+  <text x="32" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">Detection Rate 92.4%</text>
+  <text x="32" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#00c9a7">ENDPOINT · EDGE · DATA active</text>
+  <text x="32" y="220" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#58a6ff">No bypass · Defensive only</text>
+
+  <!-- Neural / Entropy meters -->
+  <rect x="16" y="248" width="280" height="220" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="32" y="274" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">ENTROPY SHELL · DIGEST</text>
+  
+  <!-- Simple meter bars -->
+  <text x="32" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">FAIR PROB</text>
+  <rect x="110" y="292" width="160" height="8" rx="2" fill="#161b22"/>
+  <rect x="110" y="292" width="118" height="8" rx="2" fill="#00c9a7"/>
+  
+  <text x="32" y="328" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">REP DIST</text>
+  <rect x="110" y="318" width="160" height="8" rx="2" fill="#161b22"/>
+  <rect x="110" y="318" width="92" height="8" rx="2" fill="#58a6ff"/>
+  
+  <text x="32" y="354" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">MOMENTUM</text>
+  <rect x="110" y="344" width="160" height="8" rx="2" fill="#161b22"/>
+  <rect x="110" y="344" width="134" height="8" rx="2" fill="#d2a8ff"/>
+  
+  <text x="32" y="380" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">ACCEL</text>
+  <rect x="110" y="370" width="160" height="8" rx="2" fill="#161b22"/>
+  <rect x="110" y="370" width="76" height="8" rx="2" fill="#3fb950"/>
+  
+  <text x="32" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">VOLATILITY</text>
+  <rect x="110" y="396" width="160" height="8" rx="2" fill="#161b22"/>
+  <rect x="110" y="396" width="148" height="8" rx="2" fill="#f85149"/>
+  
+  <text x="32" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#c9d1d9">TIME LEFT</text>
+  <rect x="110" y="422" width="160" height="8" rx="2" fill="#161b22"/>
+  <rect x="110" y="422" width="54" height="8" rx="2" fill="#e3b341"/>
+  
+  <text x="32" y="458" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">Shell cells · live market state of one market</text>
+
+  <!-- Center: Swarm Core + Sphere -->
+  <circle cx="640" cy="340" r="160" fill="url(#glow)"/>
+  <circle cx="640" cy="340" r="110" fill="none" stroke="url(#sphereGrad)" stroke-width="3" opacity="0.9"/>
+  <circle cx="640" cy="340" r="85" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="640" cy="340" r="60" fill="none" stroke="#d2a8ff" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Hex grid suggestion -->
+  <g stroke="#00c9a7" stroke-width="0.8" fill="none" opacity="0.35">
+    <path d="M640 250 L690 280 L690 340 L640 370 L590 340 L590 280 Z"/>
+    <path d="M640 280 L675 300 L675 340 L640 360 L605 340 L605 300 Z"/>
+  </g>
+  
+  <!-- Central robot / shield mark suggestion -->
+  <circle cx="640" cy="340" r="28" fill="#161b22" stroke="#00c9a7" stroke-width="2"/>
+  <text x="640" y="346" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="700" fill="#00c9a7">MT</text>
+  
+  <text x="640" y="480" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600" fill="#e6edf3">SHIELD SWARM CORE</text>
+  <text x="640" y="500" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">8 agents · Endpoint · Edge · Data · Entropy · Persist · Browser · HyperV · Mobile</text>
+
+  <!-- Right column: Edge Flow + Resolution -->
+  <rect x="984" y="56" width="280" height="180" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="1000" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">EDGE FLOW · MODEL AHEAD</text>
+  <text x="1000" y="110" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22" font-weight="700" fill="#58a6ff">0.479</text>
+  <text x="1000" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">on the ask · +0.16 per share</text>
+  <text x="1000" y="158" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#3fb950">92.9% of markets</text>
+  <text x="1000" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#c9d1d9">25.3% of paired SH</text>
+  <text x="1000" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">FIFO paired cost $1.11 / $1</text>
+
+  <rect x="984" y="248" width="280" height="220" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="1000" y="274" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">RESOLUTION GRID · LIVE</text>
+  
+  <!-- Mini grid of cells -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">
+    <rect x="1000" y="292" width="36" height="22" rx="3" fill="#238636"/><text x="1018" y="307" text-anchor="middle" fill="#fff">33¢</text>
+    <rect x="1042" y="292" width="36" height="22" rx="3" fill="#238636"/><text x="1060" y="307" text-anchor="middle" fill="#fff">57¢</text>
+    <rect x="1084" y="292" width="36" height="22" rx="3" fill="#da3633"/><text x="1102" y="307" text-anchor="middle" fill="#fff">92¢</text>
+    <rect x="1126" y="292" width="36" height="22" rx="3" fill="#238636"/><text x="1144" y="307" text-anchor="middle" fill="#fff">19¢</text>
+    
+    <rect x="1000" y="320" width="36" height="22" rx="3" fill="#da3633"/><text x="1018" y="335" text-anchor="middle" fill="#fff">45¢</text>
+    <rect x="1042" y="320" width="36" height="22" rx="3" fill="#238636"/><text x="1060" y="335" text-anchor="middle" fill="#fff">26¢</text>
+    <rect x="1084" y="320" width="36" height="22" rx="3" fill="#238636"/><text x="1102" y="335" text-anchor="middle" fill="#fff">34¢</text>
+    <rect x="1126" y="320" width="36" height="22" rx="3" fill="#da3633"/><text x="1144" y="335" text-anchor="middle" fill="#fff">56¢</text>
+    
+    <rect x="1000" y="348" width="36" height="22" rx="3" fill="#238636"/><text x="1018" y="363" text-anchor="middle" fill="#fff">88¢</text>
+    <rect x="1042" y="348" width="36" height="22" rx="3" fill="#da3633"/><text x="1060" y="363" text-anchor="middle" fill="#fff">11¢</text>
+    <rect x="1084" y="348" width="36" height="22" rx="3" fill="#238636"/><text x="1102" y="363" text-anchor="middle" fill="#fff">67¢</text>
+    <rect x="1126" y="348" width="36" height="22" rx="3" fill="#238636"/><text x="1144" y="363" text-anchor="middle" fill="#fff">42¢</text>
+  </g>
+  <text x="1000" y="400" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">Settling · Open 24 · Model every few windows</text>
+  <text x="1000" y="430" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#d2a8ff">Data Shield · Browser · Shared folders</text>
+  <text x="1000" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#00c9a7">Endpoint · File integrity · Entropy</text>
+
+  <!-- Bottom: Inventory + Chain + Log strip -->
+  <rect x="16" y="488" width="620" height="140" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="32" y="514" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">INVENTORY PLANE · UP · DOWN · FIFO PAIRING</text>
+  <text x="32" y="548" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="28" font-weight="700" fill="#3fb950">92.9%</text>
+  <text x="140" y="548" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#c9d1d9">both sides present</text>
+  <text x="32" y="580" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">2,855 pairs · 185 open · 49% / 51%</text>
+  <text x="32" y="608" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">Working lot 150 SH · Smaller steps 80 / 40 / 5 · Avg trade $67.71</text>
+
+  <rect x="648" y="488" width="320" height="140" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="664" y="514" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">HEDGE CHAIN · LOT LADDER</text>
+  <circle cx="700" cy="560" r="14" fill="none" stroke="#f85149" stroke-width="2"/>
+  <circle cx="780" cy="540" r="14" fill="none" stroke="#3fb950" stroke-width="2"/>
+  <circle cx="860" cy="560" r="14" fill="none" stroke="#e3b341" stroke-width="2"/>
+  <circle cx="780" cy="590" r="10" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="714" y1="560" x2="766" y2="540" stroke="#8b949e" stroke-width="1"/>
+  <line x1="794" y1="540" x2="846" y2="560" stroke="#8b949e" stroke-width="1"/>
+  <line x1="780" y1="554" x2="780" y2="580" stroke="#8b949e" stroke-width="1"/>
+  <text x="664" y="620" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">Stationary distribution 85.4%</text>
+
+  <rect x="984" y="488" width="280" height="140" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="1000" y="514" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">ACTIVITY · AGENTS</text>
+  <text x="1000" y="540" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#00c9a7">ENDPOINT  integrity scan +0.6%</text>
+  <text x="1000" y="560" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#58a6ff">EDGE      hypervisor watch</text>
+  <text x="1000" y="580" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#d2a8ff">DATA      browser storage</text>
+  <text x="1000" y="600" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">ENTROPY   shell rebalance</text>
+  <text x="1000" y="620" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#8b949e">8/8 arms synced · MEM 74%</text>
+
+  <!-- Bottom ticker -->
+  <rect x="0" y="648" width="1280" height="72" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="24" y="678" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">HELD TO RESOLUTION · ADD SAME SIDE 55% · HEDGE 27% · FLIP 18% · TRADES / ACTIVE HOUR 164.9 · FILLS/MKT 11.9 · 0xMT // POLYMARKET STYLE BUT DEFENSIVE ONLY</text>
+  <text x="24" y="702" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#3fb950">memetorrent.futuret3ch.com.au/shield · /shield/api · /developers · No watermarks · Public pack</text>
+</svg>
