@@ -50,9 +50,10 @@ It does **not** decrypt content, unlock passwords, or bypass platform sandboxes.
 
 | File | Description |
 |------|-------------|
-| [PUBLIC_OVERVIEW.md](PUBLIC_OVERVIEW.md) | Full public overview (markdown) |
-| [docs/Futuret3ch_Security_Shield_Systems_Public_Overview.pdf](docs/Futuret3ch_Security_Shield_Systems_Public_Overview.pdf) | Same overview as PDF |
+| [PUBLIC_OVERVIEW.md](PUBLIC_OVERVIEW.md) | Full public overview |
 | [SOCIAL_POSTS.md](SOCIAL_POSTS.md) | Ready-to-post text for X, Telegram, and Discord |
+
+A printable PDF of the public overview is available in the project package.
 
 ---
 
