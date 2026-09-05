@@ -10,6 +10,7 @@ Public materials live in **[public/](public/)**:
 | [public/PUBLIC_SHIELD_POLICY.md](public/PUBLIC_SHIELD_POLICY.md) | Acceptable use |
 | [public/PRIVACY_NOTE_SHIELD.md](public/PRIVACY_NOTE_SHIELD.md) | Short privacy note |
 | [public/shield_systems_diagram.svg](public/shield_systems_diagram.svg) | Endpoint · Edge · Data diagram |
+| [public/diagrams/shield_swarm_dashboard.svg](public/diagrams/shield_swarm_dashboard.svg) | Shield Swarm Core dashboard mock (multi-agent style) |
 | [PUBLIC_OVERVIEW.md](PUBLIC_OVERVIEW.md) | High-level overview |
 
 **Live product**
