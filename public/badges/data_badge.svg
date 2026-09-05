@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="36" viewBox="0 0 180 36">
+  <rect width="180" height="36" rx="6" fill="#161b22" stroke="#d2a8ff" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="7" fill="#d2a8ff"/>
+  <text x="34" y="23" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#d2a8ff">Data Shield</text>
+</svg>
