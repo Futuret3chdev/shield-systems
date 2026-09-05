@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#0d1117"/>
+  
+  <text x="400" y="40" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" fill="#e6edf3">Shield Systems — Clear Boundaries</text>
+  <text x="400" y="62" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Defensive visibility only · These lines are non-negotiable</text>
+
+  <!-- What we do -->
+  <rect x="40" y="90" width="340" height="280" rx="14" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+  <text x="210" y="125" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#3fb950">What Shield does</text>
+  <text x="60" y="160" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• File integrity & entropy signals</text>
+  <text x="60" y="185" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Persistence inventory</text>
+  <text x="60" y="210" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Hypervisor & browser visibility</text>
+  <text x="60" y="235" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Process-level network accounting</text>
+  <text x="60" y="260" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Device identity attribution</text>
+  <text x="60" y="285" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Visible Family Link</text>
+  <text x="60" y="310" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Real scan history only</text>
+  <text x="60" y="335" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Consent-gated diagnostics</text>
+
+  <!-- What we never do -->
+  <rect x="420" y="90" width="340" height="280" rx="14" fill="#161b22" stroke="#f85149" stroke-width="2"/>
+  <text x="590" y="125" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#f85149">What Shield never does</text>
+  <text x="440" y="160" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Decrypt or unlock content</text>
+  <text x="440" y="185" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Bypass passwords or encryption</text>
+  <text x="440" y="210" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Break platform sandboxes</text>
+  <text x="440" y="235" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Enable unauthorised access</text>
+  <text x="440" y="260" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Provide attack / exploit advice</text>
+  <text x="440" y="285" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Run silent diagnostics</text>
+  <text x="440" y="310" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Invent or fake scan results</text>
+  <text x="440" y="335" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">• Hide Family Link from the child</text>
+
+  <text x="400" y="415" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">All use must comply with law, organisational policy, and platform terms</text>
+  <text x="400" y="445" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#6e7681">© Futuret3ch Security · MemeTorrent ecosystem · memetorrent.futuret3ch.com.au/shield</text>
+</svg>
